@@ -25,7 +25,7 @@ SECRET_KEY = '*v1q*f)2=zrgyscn39e=l-(_@dws)xa31y9s2bafi7ke7)(w%r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com' '.amazonaws.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', '.amazonaws.com']
 
 
 # Application definition
